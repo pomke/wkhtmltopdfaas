@@ -13,7 +13,7 @@
     "type": "git"
   },
   "dependencies": {
-    "restify": "~1.4.4"
+    "restify": "~2.2.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
